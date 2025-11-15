@@ -1,1 +1,2 @@
 Hola desde el taller
+Nueva funcionalidad
